@@ -18,4 +18,4 @@ jobs:
       - name: Run the automated tests
         run: poetry run pytest ./tests
       - name: Run the automated tests
-        run: poetry run pyright ./homework02
+        run: poetry run pyright ./homework_02
